@@ -10,5 +10,5 @@ pip install -r requirements.txt
 - To replicate my experiments with the bigram model, please contact me and I will send you the KenML bigram model file.
 - To replicate the experiments with GPT2, just run ``gpt2.py``.
 
-
-
+--------------------------------------------
+If you have questions, please contact me by email (xiulin.yang.compling@gmail.com)
